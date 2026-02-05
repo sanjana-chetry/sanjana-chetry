@@ -7,4 +7,4 @@ I work across frontend and backend, and spend a lot of time on data structures a
 I’m curious about clean design, scalable systems, and getting better at my craft every day.
 
 Let’s connect.  
-[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sanjana-chetry-254742298/))
+[LinkedIn](https://www.linkedin.com/in/sanjana-chetry-254742298/)
